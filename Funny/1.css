@@ -1,0 +1,22 @@
+body{
+	background-color: lightpink;
+	animation: 2s;
+}
+h1{
+	margin-left: 15cm; 
+	margin-top: 3cm;
+	animation: bdjn;
+}
+h3{
+	margin-left: 16cm; 
+	margin-top: 1.5cm;
+	color: red;
+
+}
+img{
+	margin-left: 16cm; 
+	width: 100px; 
+	height: 100px; 
+	border-radius: 5rem;
+	background-color: yellow;
+}
